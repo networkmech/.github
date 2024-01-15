@@ -1,4 +1,4 @@
-## UVA Network Mechanics Group
+## UVA CS Network Mechanics Group
 
 Hi everyone! 
 This is the Github public repository for the **Network Mechanics Group (NMG)** in the **Departmet of Computer Science** at the **University of Virginia**! 
